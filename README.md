@@ -43,6 +43,7 @@
   <img height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app"  />
 </div
 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/Estebanmq/Taskjects_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app&&theme=react"  />
 </a>
