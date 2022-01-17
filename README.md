@@ -36,15 +36,10 @@
 </div>
 
 <br>
-
-### Mis Proyectos
 <!--
-<div>
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app"  />
-</div
--->
+### Mis Proyectos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app&&theme=react)](https://github.com/Estebanmq/Taskjects_app)
-
+-->
   
 
 <br>
