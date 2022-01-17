@@ -38,9 +38,18 @@
 <br>
 
 ### Mis Proyectos
+<!--
 <div>
   <img height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app"  />
 </div
+-->s
+<a href="https://github.com/Estebanmq/Taskjects_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app"  />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+  
 
 <br>
 
