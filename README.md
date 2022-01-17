@@ -37,6 +37,13 @@
 
 <br>
 
+### Mis Proyectos
+<div>
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app"  />
+</div
+
+<br>
+
 <div>
   <img height="100%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=EstebanMQ"/>  
 </div>
