@@ -46,15 +46,17 @@
 <a href="https://github.com/Estebanmq/Taskjects_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app"  />
 </a>
+<!--
 <a href="https://github.com/EstebanMQ/AdiestramientoParaPerros">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=AdiestramientoParaPerros" />
 </a>
+-->
   
 
 <br>
 
 <div>
-  <img height="100%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=EstebanMQ"/>  
+  <img height="100%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=EstebanMQ&custom_title=Estadísticas WakaTime"/>  
 </div>
 
 <!--
