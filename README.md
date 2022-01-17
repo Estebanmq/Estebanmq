@@ -43,15 +43,15 @@
   <img height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app"  />
 </div
 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app&&theme=react)](https://github.com/Estebanmq/Taskjects_app)
+
 <a href="https://github.com/Estebanmq/Taskjects_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app&&theme=react"  />
 </a>
-<!--
-<a href="https://github.com/EstebanMQ/AdiestramientoParaPerros">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=AdiestramientoParaPerros" />
+
+<a href="https://github.com/Estebanmq/Taskjects_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app&&theme=react"  />
 </a>
--->
+
   
 
 <br>
