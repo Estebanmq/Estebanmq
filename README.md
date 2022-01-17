@@ -43,14 +43,7 @@
   <img height="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app"  />
 </div
 -->
-
-<a href="https://github.com/Estebanmq/Taskjects_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app&&theme=react"  />
-</a>
-
-<a href="https://github.com/Estebanmq/Taskjects_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app&&theme=react"  />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app&&theme=react)](https://github.com/Estebanmq/Taskjects_app)
 
   
 
