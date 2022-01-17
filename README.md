@@ -56,7 +56,7 @@
 <br>
 
 <div>
-  <img height="100%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=EstebanMQ&custom_title=Estadísticas WakaTime&&theme=react"/>  
+  <img style="margin-top:1em;" height="100%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=EstebanMQ&custom_title=Estadísticas WakaTime&&theme=react"/>  
 </div>
 
 <!--
