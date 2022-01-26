@@ -51,7 +51,9 @@
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=adiestramientoparaperros)](https://github.com/anuraghazra/github-readme-stats)
 -->
+**github action**
 
+```yaml
 - uses: Platane/snk@master
   with:
     # github user name to read the contribution graph from (**required**)
@@ -65,4 +67,5 @@
     # path of the generated svg file
     # If left empty, the svg file will not be generated
     svg_out_path: dist/github-snake.svg
+```
 
