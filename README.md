@@ -52,13 +52,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=adiestramientoparaperros)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-```yaml
-   # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-```
+<!--
+https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
+-->
    
