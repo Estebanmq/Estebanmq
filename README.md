@@ -48,8 +48,10 @@
   <img height="100%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=EstebanMQ&custom_title=Estadísticas WakaTime&&theme=react"/>  
 </div>
 
-<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanMQ&theme=tokyonight)
+
+
+<!--
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=adiestramientoparaperros)](https://github.com/anuraghazra/github-readme-stats)
 -->
