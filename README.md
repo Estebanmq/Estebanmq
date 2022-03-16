@@ -45,7 +45,7 @@ Lenguajes y tecnologias que he utilizado a lo largo del tiempo
 <br>
 
 <div style="margin-top: 30px;">
-  <img height="100%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=EstebanMQ&custom_title=Estadísticas WakaTime&&theme=react"/>  
+  <img height="100%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=EstebanMQ&custom_title=Estadísticas WakaTime últimos 7 días&&theme=react"/>  
 </div>
 <!--
 
