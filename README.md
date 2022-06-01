@@ -52,8 +52,8 @@ https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-f
   
  
    <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />
-   <!--
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> -->
+   
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /> 
   
 </div>
    
