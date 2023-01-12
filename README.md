@@ -4,15 +4,16 @@
 <!--
 ### Mis Proyectos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=estebanmq&repo=Taskjects_app&&theme=react)](https://github.com/Estebanmq/Taskjects_app)
--->
 
+[
 <div>
   
   <img height="100%" src="https://github-readme-stats.vercel.app/api?username=estebanmq&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_title=true"/>
-  <!--<img height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanmq&count_private=true&layout=compact&langs_count=16&theme=react&custom_title=Lenguajes más usados&card_width=400"/>-->
+  <img height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanmq&count_private=true&layout=compact&langs_count=16&theme=react&custom_title=Lenguajes más usados&card_width=400"/>
 </div>
+-->
 
-<br>
+<br>](url)
 
 <!--
 <div style="margin-top: 30px;">
